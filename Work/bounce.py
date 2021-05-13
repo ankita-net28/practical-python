@@ -8,3 +8,4 @@ while num <= 10:
     height=3/5 * height
     num=num+1
     print(height)
+    print(round(height,4)) #rounded up to 4
